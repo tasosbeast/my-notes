@@ -1,5 +1,3 @@
-# arithmetic operators in order from highest precedence (18) to lowest precedence (1):
-
 # Arithmetic Operators by Precedence
 
 | Precedence | Operator                                             | Name                            | Description                                 | Example                     | Result                         |
