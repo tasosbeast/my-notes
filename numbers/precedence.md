@@ -1,5 +1,5 @@
 # Arithmetic Operators by Precedence
-
+```js
 | Precedence | Operator                                             | Name                            | Description                                 | Example                     | Result                         |
 | ---------- | ---------------------------------------------------- | ------------------------------- | ------------------------------------------- | --------------------------- | ------------------------------ | --- | --- | --- | ------------ |
 | 18         | `()`                                                 | Parentheses                     | Defines the order of operations             | `(5 + 3) * 2`               | `16`                           |
@@ -19,3 +19,4 @@
 | 4          | `=` `+=` `-=` `*=` `/=` `%=` `<<=` `>>=` `&=` `^=` ` | =`                              | Assignment                                  | Assigns values              | `a = b` `a += b`               | -   |
 | 3          | `yield`                                              | Yield                           | Pauses and resumes a generator function     | `yield value`               | -                              |
 | 2          | `,`                                                  | Comma                           | Separates expressions                       | `a, b`                      | -                              |
+```
