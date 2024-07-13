@@ -1,5 +1,7 @@
 # Arithmetic Operators
 
+Arithmetic operators are used for performing mathematical calculations in JavaScript:
+
 | Operator | Name           | Description                                         | Example      | Result  |
 | -------- | -------------- | --------------------------------------------------- | ------------ | ------- |
 | `+`      | Addition       | Adds two operands                                   | `5 + 3`      | `8`     |
