@@ -2,12 +2,14 @@
 
 # Arithmetic Operators by Precedence
 
+# Arithmetic Operators by Precedence
+
 | Precedence | Operator                                             | Name                            | Description                                 | Example                     | Result                         |
 | ---------- | ---------------------------------------------------- | ------------------------------- | ------------------------------------------- | --------------------------- | ------------------------------ | --- | --- | --- | ------------ |
 | 18         | `()`                                                 | Parentheses                     | Defines the order of operations             | `(5 + 3) * 2`               | `16`                           |
 | 17         | `++` `--`                                            | Increment/Decrement             | Increases or decreases value by one         | `a = 5; a++`                | `a = 6`                        |
 | 16         | `**`                                                 | Exponentiation                  | Raises to the power of                      | `5 ** 2`                    | `25`                           |
-| 15         | `*` `/` `%`                                          | Multiplication/Division/Modulus | Multiplies, divides or finds remainder      | `5 * 3` `6 / 3` `5 % 2`     | `15` `2` `1`                   |
+| 15         | `*` `/` `%`                                          | Multiplication/Division/Modulus | Multiplies, divides, or finds remainder     | `5 * 3` `6 / 3` `5 % 2`     | `15` `2` `1`                   |
 | 14         | `+` `-`                                              | Addition/Subtraction            | Adds or subtracts                           | `5 + 3` `5 - 3`             | `8` `2`                        |
 | 13         | `<<` `>>` `>>>`                                      | Bitwise Shift                   | Shifts bits left, right, or zero-fill right | `a << b` `a >> b` `a >>> b` | -                              |
 | 12         | `<` `<=` `>` `>=`                                    | Relational                      | Compares values                             | `a < b`                     | `true/false`                   |
