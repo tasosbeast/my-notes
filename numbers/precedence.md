@@ -1,9 +1,5 @@
 # arithmetic operators in order from highest precedence (18) to lowest precedence (1):
 
-# Arithmetic Operators by Precedence
-
-# Arithmetic Operators by Precedence
-
 | Precedence | Operator                                             | Name                            | Description                                 | Example                     | Result                         |
 | ---------- | ---------------------------------------------------- | ------------------------------- | ------------------------------------------- | --------------------------- | ------------------------------ | --- | --- | --- | ------------ |
 | 18         | `()`                                                 | Parentheses                     | Defines the order of operations             | `(5 + 3) * 2`               | `16`                           |
