@@ -190,7 +190,3 @@ $ cd -
 - Hidden files start with `.` and require `ls -a` to view.
 
 With these tools and techniques, you'll navigate the Unix shell like a pro!
-
-```
-
-```
