@@ -26,7 +26,7 @@ The filesystem is a hierarchical structure that organizes data on a computer. At
   /Users/nelle
   ```
 
-````
+---
 
 ### 2. **List Directory Contents (`ls`)**
 
@@ -191,4 +191,6 @@ $ cd -
 
 With these tools and techniques, you'll navigate the Unix shell like a pro!
 
-````
+```
+
+```
