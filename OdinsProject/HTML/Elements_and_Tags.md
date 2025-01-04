@@ -74,9 +74,9 @@ These notes summarize the "Elements and Tags" lesson from The Odin Project, expl
 
 ## 📖 Assignment and Resources
 
-- Watch **Kevin Powell’s Introduction to HTML Video** for additional learning.
+- Watch **[Kevin Powell’s Introduction to HTML Video](https://www.youtube.com/watch?v=LGQuIIv2RVA)** for additional learning.
 - Supplemental Resource:  
-  - [Don’t Fear the Internet’s Video on HTML](https://www.dontfeartheinternet.com/).
+  - [Don’t Fear the Internet’s Video on HTML](https://player.vimeo.com/video/24549728).
 
 ---
 
