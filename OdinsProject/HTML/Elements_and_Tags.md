@@ -1,6 +1,4 @@
-Here are notes for the "Elements and Tags" lesson:
 
-```markdown
 # Elements and Tags | Notes
 
 These notes summarize the "Elements and Tags" lesson from The Odin Project, explaining how HTML elements and tags define the structure and content of webpages.
