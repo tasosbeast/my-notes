@@ -1,6 +1,4 @@
-Here's the content for your notes:
 
-```markdown
 # Git Basics | Notes
 
 These notes summarize key concepts and commands from the Git Basics lesson in The Odin Project. They cover repository setup, managing files, version control workflows, and best practices for using Git effectively.
