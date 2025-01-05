@@ -109,7 +109,7 @@ An HTML document follows a basic structure called the **boilerplate**, which ser
 
 ## 📖 Assignment and Resources
 
-- Watch **Kevin Powell’s Building Your First Web Page** video.
+- Watch *[*Kevin Powell’s Building Your First Web Page](https://www.youtube.com/watch?v=V8UAEoOvqFg&t=93s)\*\* video.
 - Practice writing the boilerplate from memory multiple times.
 - Validate your HTML with the [W3 HTML Validator](https://validator.w3.org/).
 
