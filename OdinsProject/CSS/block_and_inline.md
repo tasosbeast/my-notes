@@ -123,7 +123,3 @@ CSS elements are categorized as **block** or **inline**, which determines how th
 3. How does `display: inline-block` differ from `display: block`?
 
 ---
-
-```
-
-```
