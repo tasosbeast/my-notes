@@ -23,8 +23,6 @@ CSS elements are categorized as **block** or **inline**, which determines how th
   <p>This is a block element.</p>
   ```
 
-````
-
 ### 2. **Inline Elements**
 
 - Default display style: `display: inline`.
@@ -126,4 +124,6 @@ CSS elements are categorized as **block** or **inline**, which determines how th
 
 ---
 
-````
+```
+
+```
